@@ -122,7 +122,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
                 title: 'biết mà =)))',
-                text: "inbox luôn cho tui chứ còn chờ gì nữa",
+                text: "inbox luôn cho tui chứ còn chờ gì nữa ;)))",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'http://fb.com';
