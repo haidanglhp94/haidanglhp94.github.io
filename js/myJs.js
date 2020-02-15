@@ -14,7 +14,7 @@ function firstQuestion(){
     
     $('.content').hide();
     Swal.fire({
-        title: 'Hế Lu Ngày Mới!',
+        title: 'Hế Lu Ngày Mới - Ngày có lương ^^!',
         text: 'Để Ngày Mới Làm Việc Hiệu Quả - Hà Muốn Nhận Quà gì ko?',
         imageUrl: 'img/cuteCat.jpg',
         imageWidth: 300,
